@@ -1,0 +1,60 @@
+.model {
+    position: relative;
+     background: url("/img/botão.png") no-repeat center center;
+     background-size: contain;
+     height: 42px;
+     width: 128px;
+     padding-bottom: 1rem
+}
+
+.barra {
+    background-color: #00DAC0;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    border-radius: 6.25rem;
+    border: none;
+}
+
+.ciano {
+    background-color: #00DAC0;
+}
+
+.branco {
+    background-color: #F2F2F2;
+}
+
+.roxo {
+    background-color: #210140;
+}
+
+.minhaimagem {
+    width: 100px;
+}
+
+.banner {
+     position: relative;
+     background: url("/img/start.png") no-repeat center center;
+     background-size: contain;
+     height: 540px;
+     width: 915px;
+     padding-top: 8rem;
+     padding-bottom: 8rem;
+}
+
+.text {
+    font-size: 80px;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.text2 {
+    font-size: 50px;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.sobre {
+     position: relative;
+     background: url("../img/sobre.png") no-repeat center center;
+     background-size: contain;
+     padding-top: 8rem;
+     padding-bottom: 7rem;
+}
